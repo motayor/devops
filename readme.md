@@ -1,1 +1,1 @@
-UPDATED: This is a intro note to my devops project
+UPDATED: This is an intro. note to my devops project
